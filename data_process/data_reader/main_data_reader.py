@@ -1,4 +1,4 @@
-import pickle
+import pickle5 as pickle
 from collections import Counter
 from statistics import stdev, mean
 from typing import List
